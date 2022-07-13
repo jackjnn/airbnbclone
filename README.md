@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Visualizing the app
 
-![GIF of app](airbnbclone.gif =250x)
+![GIF of app](airbnbclone.gif {=250x})
 
 ## Available Scripts
 
